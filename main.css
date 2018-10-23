@@ -1,0 +1,54 @@
+h1{
+	text-align: center;
+	color:white;
+}
+body{
+	font-family: sans-serif;
+    background-image:url(http://epi-rsc.rsc-cdn.org/globalassets/15-competitions/emerging-technologies1/1309_emerging-technologies-competition-2016_f1-2400.jpg?version=3f1b9822&width=1120&format=jpg&quality=70);
+}
+.lesson{
+	background-color:#424242;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+}
+.title{
+	background-color: #424242;
+	border-radius: 20px;
+	padding: 10px;
+	lighting-color: white;
+	text-align: center;
+}
+.subtitle{
+	background-color: #DFEAF1;
+	padding: 10px;
+	border-radius: 10px;
+	margin: 5px;
+}
+h2{
+	margin: 10px;
+}
+.concept{
+	background-color: #DFEAF1;
+	margin: 12px;
+	padding: 4px;
+	border-radius: 4px;
+	color: black;
+}
+.concepttitle{
+	font-size: 18px;
+	margin: 8px;
+	text-align: center;
+	color:white;
+	background-color: #3F51B5;
+	padding: 0.1px;
+	border-radius: 8px;
+}
+.conceptdescription{
+font-weight: lighter;
+margin: 6px;
+}
+.italic{
+	font-style: italic;
+}
